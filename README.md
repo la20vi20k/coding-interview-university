@@ -203,11 +203,11 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
     Fork a branch and follow the commands below
 
-[x] `git checkout -b progress`
+`git checkout -b progress`
 
-[x] `git remote add jwasham https://github.com/jwasham/coding-interview-university`
+`git remote add jwasham https://github.com/jwasham/coding-interview-university`
 
-[x] `git fetch --all`
+`git fetch --all`
 
     Mark all boxes with X after you completed your changes
 
@@ -240,8 +240,8 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 ## Interview Process & General Interview Prep
 
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
